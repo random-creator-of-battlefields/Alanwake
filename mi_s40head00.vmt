@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 			"models\vsj\alanwake\T_S40Head01_BC"
+	"$surfaceprop" "Flesh"
+	"$bumpmap" 				"models\vsj\alanwake\T_S40Head00_N"
+	"$lightwarptexture"		"models\vsj\alanwake\gambler_head_wrp"
+	
+	"$halflambert"	"1"
+	"$nodecal" 1
+
+	$phong 1
+	$phongboost "1.4"
+	$phongexponent 12
+	$phongtint "[.85 .85 1]"
+	$phongfresnelranges "[.2 .5 5]"
+	
+	$ambientocclusion 1
+
+}
