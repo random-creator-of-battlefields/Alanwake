@@ -1,0 +1,25 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" 					"models/vsj/alanwake/T_S40Hair01_BC"
+	"$bumpmap" 						"models/vsj/alanwake/T_CMMHair000_N"
+	"$surfaceprop" "Flesh"
+	
+	"$halflambert" 					1
+	"$alphatest"					1	
+	"$allowalphatocoverage"			1
+	"$nocull"						1
+
+	"$phong"						1
+	"$phongexponent"				"25"
+	"$phongboost"					2
+	"$phongfresnelranges" 			"[.05 .5 1]"
+	"$phongtint"					"[1.5 1.2 1]"
+
+	
+	$phongwarptexture				"models/vsj/alanwake/phongwarp_hair"
+
+	$ambientocclusion 				1
+	$diffuseexp 					"1.5"	
+
+	$nodecal 1
+}

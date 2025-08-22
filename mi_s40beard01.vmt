@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" 					"models/vsj/alanwake/T_S40Beard01_BC"
+	"$bumpmap" 						"models/vsj/alanwake/T_CMMHair000_N"
+
+	"$halflambert" 					1
+	"$alphatest"					1	
+	"$allowalphatocoverage"			1
+	"$nocull"						1
+	
+	$nodecal 1
+}

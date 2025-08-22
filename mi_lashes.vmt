@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" 					"models/vsj/alanwake/T_CMMLashes01_M"
+
+	"$halflambert" 					1
+	"$translucent"					1	
+	"$nocull"						1
+	"$nodecal"						1
+
+}
