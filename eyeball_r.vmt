@@ -1,0 +1,25 @@
+"EyeRefract"
+{
+	$Iris "models/vsj/alanwake/eyeball"
+
+	$ambientocclusion 1
+	$ambientocclcolor "[.50 .50 .50]"
+
+	"$AmbientOcclTexture" "models/vsj/alanwake/coach_eye_ao"
+	"$CorneaTexture"      "Engine/eye-cornea"      		           	
+	"$Envmap"             "Engine/eye-reflection-cubemap-" 	
+
+	$EyeballRadius 0.5		// Default 0.5
+	$Dilation 0.5					// Default 0.5
+	$ParallaxStrength 0.25          // Default 0.25
+	$CorneaBumpStrength 0.5			// Default 1.0
+
+	$halflambert 1
+	"$nodecal" 1
+
+
+	$RaytraceSphere 0 		
+	$SphereTexkillCombo 0
+
+}
+
